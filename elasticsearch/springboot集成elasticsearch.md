@@ -111,7 +111,7 @@ public class ElasticsearchConfig {
 
 
 
-```
+```java
 package com.funtl.st;
 
 import com.alibaba.fastjson.JSON;
